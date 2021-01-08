@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello World, I'm Mathieu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**leersmathieu/leersmathieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on personal project like 
+- 🌱 I’m currently learning Machine Learning and Deeplearning at @ becode.org
+- 👯 I'm looking for an internship in artificial intelligence (Data Operator, ML, DL, CV...)
+- 📫 How to reach me: leers.mathieu@gmail.com
+- ⚡ Fun fact: I'm a hypnotist
 
-Here are some ideas to get you started:
+You can check my website to view some of my projects : https://leersmathieu.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+I followed two trainings, one for WEB and one for AI. So I have skills in these two areas
+
+#### Web 
+
+#### AI
