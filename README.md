@@ -1,4 +1,4 @@
-## Hello World, I'm Mathieu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello World, I'm Mathieu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently working on personal project like 
 - 🌱 I’m currently learning Machine Learning and Deeplearning at @ becode.org
@@ -8,13 +8,17 @@
 
 You can check my website to view some of my projects : https://leersmathieu.com/
 
-### Skills
+## Skills
 
 I followed two trainings, one for WEB and one for AI. So I have skills in these two areas
 
-#### Web 
+### Web 
+<img align="left" alt="PHP" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php_32x32.png" /> 
+<img align="left" alt="JS" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_32x32.png" />
+<img align="left" alt="Html" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_32x32.png" />  
+<img align="" alt="Css" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_32x32.png" />  
 
-#### AI
+### AI
 
 <img align="left" alt="Python 2 & 3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/800px-Tensorflow_logo.svg.png"/>
