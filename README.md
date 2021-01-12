@@ -31,7 +31,7 @@ I followed two trainings, one for WEB and one for AI. So I have skills in these 
 
 ## Connect with me
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leers-mathieu/)
-[<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/tamikofficiel)
-[<img src="https://img.shields.io/badge/WEBSITE-%23292929.svg?&style=for-the-badge&logo=WEBSITE&logoColor=white" />](https://leersmathieu.com/) 
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><a href="https://www.linkedin.com/in/leers-mathieu/" target="_blank"></a>
+<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white" /><a href="https://www.linkedin.com/in/leers-mathieu/" target="_blank"></a>
+<img src="https://img.shields.io/badge/WEBSITE-%23292929.svg?&style=for-the-badge&logo=WEBSITE&logoColor=white" /><a href="https://leersmathieu.com/" target="_blank"></a> 
 
