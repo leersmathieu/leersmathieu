@@ -1,8 +1,8 @@
 # Hello World, I'm Mathieu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working on personal project like 
-- 🌱 I’m currently learning Machine Learning and Deeplearning at @ becode.org
-- 👯 I'm looking for an internship in artificial intelligence (Data Operator, ML, DL, CV...)
+- 🔭 I’m currently working on personal project like https://github.com/leersmathieu/deep-detect-handwriting
+- 🌱 I’m currently learning Machine Learning and Deeplearning at https://becode.org/fr/apprendre/ai-bootcamp/
+- 👯 I'm looking for an internship in artificial intelligence (Data Operator, Machine Learning, Ddeep Learning, Computer vision...)
 - 📫 How to reach me: leers.mathieu@gmail.com
 - ⚡ Fun fact: I'm a hypnotist
 
