@@ -12,13 +12,6 @@ You can check my website to view some of my projects : https://leersmathieu.com/
 
 I followed two trainings, one for WEB and one for AI. So I have skills in these two areas
 
-### Web 
-
-<img align="left" alt="PHP" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php_32x32.png" /> 
-<img align="left" alt="JS" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_32x32.png" />
-<img align="left" alt="Html" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_32x32.png" />  
-<img align="" alt="Css" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_32x32.png" />  
-
 ### AI
 
 <img align="left" alt="Python 2 & 3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />
@@ -29,6 +22,13 @@ I followed two trainings, one for WEB and one for AI. So I have skills in these 
 <img align="left" alt="Jupyter Lab" height="26px" src="https://jupyter.org/assets/main-logo.svg" />
 <img align="left" alt="Jetbrains suite" title="Jetbrains suite" width="26px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />
 <img align="" alt="Terminal" title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+### Web 
+
+<img align="left" alt="PHP" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php_32x32.png" /> 
+<img align="left" alt="JS" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_32x32.png" />
+<img align="left" alt="Html" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_32x32.png" />  
+<img align="" alt="Css" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_32x32.png" />  
 
 ## Connect with me
 
