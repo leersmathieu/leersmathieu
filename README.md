@@ -36,4 +36,3 @@ I followed two trainings, one for WEB and one for AI. So I have skills in these 
 <a href="https://twitter.com/tamikofficiel" target="_blank"><img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://leersmathieu.com/" target="blank"><img src="https://img.shields.io/badge/WEBSITE-%23292929.svg?&style=for-the-badge&logo=WEBSITE&logoColor=white" /></a> 
 
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
