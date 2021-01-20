@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on personal project like <a href="https://github.com/leersmathieu/deep-detect-handwriting" target="_blank">this</a> (Handwriting detector)
 - 🌱 I’m currently learning Machine Learning and Deeplearning at  <a href="https://becode.org/fr/apprendre/ai-bootcamp/" target="_blank">BeCode</a>
-- 👯 I'm looking for an internship in artificial intelligence (Data Operator, Machine Learning, Ddeep Learning, Computer vision...)
+- 👯 I'm looking for an internship in artificial intelligence (Data Operator, Machine Learning, Deep Learning, Computer vision...)
 - 📫 How to reach me: leers.mathieu@gmail.com
 - ⚡ Fun fact: I'm a hypnotist
 
