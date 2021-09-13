@@ -1,6 +1,6 @@
 # Hello World, I'm Mathieu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working on personal project like <a href="https://github.com/leersmathieu/deep-detect-handwriting" target="_blank">this</a> (Handwriting detector)
+- 🔭 I’m currently working on personal project like <a href="https://github.com/leersmathieu/zombax-game" target="_blank">this</a> (game with pygame)
 - 🌱 I have just finished Machine Learning and Deeplearning training at  <a href="https://becode.org/fr/apprendre/ai-bootcamp/" target="_blank">BeCode</a>
 - 👯 Last internship at <a href="https://www.aerospacelab.be/" target="_blank">Aerospacelab</a>
 - 📫 How to reach me: leers.mathieu@gmail.com
