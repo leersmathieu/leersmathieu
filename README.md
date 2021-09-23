@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on personal project like <a href="https://github.com/leersmathieu/zombax-game" target="_blank">this</a> (game with pygame)
 - 🌱 I have just finished Machine Learning and Deeplearning training at  <a href="https://becode.org/fr/apprendre/ai-bootcamp/" target="_blank">BeCode</a>
 - 👯 Last internship at <a href="https://www.aerospacelab.be/" target="_blank">Aerospacelab</a>
+- 📋 Last job at  <a href="https://www.dupuis.com/" target="_blank">Dupuis</a>
 - 📫 How to reach me: leers.mathieu@gmail.com
 - ⚡ Fun fact: I'm a hypnotist
 
