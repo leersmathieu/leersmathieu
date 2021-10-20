@@ -1,9 +1,10 @@
 # Hello World, I'm Mathieu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently working on personal project like <a href="https://github.com/leersmathieu/zombax-game" target="_blank">this</a> (game with pygame)
-- 🌱 I have just finished Machine Learning and Deeplearning training at  <a href="https://becode.org/fr/apprendre/ai-bootcamp/" target="_blank">BeCode</a>
+- 🌱 I have skills in many area (Web, AI, Programing, Multimedia)
 - 👯 Last internship at <a href="https://www.aerospacelab.be/" target="_blank">Aerospacelab</a>
-- 📋 Last job at  <a href="https://www.dupuis.com/" target="_blank">Dupuis</a>
+- 🥈 Last job at  <a href="https://www.dupuis.com/" target="_blank">Editions Dupuis</a> (i've make <a href="https://www.webtoonfactory.com/fr/accueil/" target="_blank">that</a> !)
+- 🥇 Actual job at  <a href="https://www.offre-esenca.com/novacens-transformation-numerique/" target="_blank">Esenca : Novacens</a>
 - 📫 How to reach me: leers.mathieu@gmail.com
 - ⚡ Fun fact: I'm a hypnotist
 
